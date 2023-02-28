@@ -67,14 +67,12 @@ header{
 
 @media screen and (min-width: 900px){
     header{
-        margin-right: 13%;
+        margin-right: 15%;
         padding-left: 0;
     } 
-
-
-    
-
-
+    .background-image{
+        margin-left: 37%;
+      }
 }
 
 @media screen and (max-width: 900px){
@@ -92,7 +90,10 @@ header{
    header{
     padding-left: 0;
    }
-
+  
+   .background-image{
+     margin-left: 38%;
+   }
 
 }
 @media  screen and(min-width: 1200px) {

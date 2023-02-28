@@ -92,7 +92,7 @@ header{
    }
   
    .background-image{
-     margin-left: 38%;
+     margin-left: 40%;
    }
 
 }
@@ -152,4 +152,9 @@ h2{
 
 .tiktok h3{
     margin-top: 0;
+}
+
+
+.insta-div h3{
+  margin-top: 0;
 }

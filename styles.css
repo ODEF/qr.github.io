@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgba(28, 20, 100, 0.4);
+    background-color: #edede9;
     z-index: -2;
 }
 
@@ -130,7 +130,7 @@ header{
 
 a{
     text-decoration: none;
-    color: rgb(240, 11, 213);
+    color: #14213d;
     font-weight: bold;
     font-size: 19px;
 }
@@ -138,5 +138,18 @@ a{
 
 
 h2{
+    margin-top: 0;
+}
+
+.tiktok-image{
+    width: 30%;
+    margin-top: 0;
+}
+
+.tiktok{
+    padding-top: 0;
+}
+
+.tiktok h3{
     margin-top: 0;
 }

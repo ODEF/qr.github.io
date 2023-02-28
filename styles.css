@@ -13,7 +13,7 @@ img{
     width: 20%;
 }
 .instagram, .facebook{
-    border:  1px  solid  hsl(197, 61%, 50%);
+    border:  1px  solid  #264653;
     margin-top: 5%;
     display: flex;
     flex-direction: column;
